@@ -42,3 +42,5 @@ def test_is_valid_phone_true():
 #
 #     # Assert
 #     assert result == "pr***@example.com"
+def test_basic_math():
+    assert 1 + 1 == 2
